@@ -1,1 +1,1 @@
-# neural_networks_and_cv_stepik
+# Neural Networks and CV (Stepik by Samsung Research Russia)
